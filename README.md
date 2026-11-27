@@ -13,3 +13,8 @@ Deployed on Vercel: https://logicnest-six.vercel.app/
 
 Consistent study versioning, approval gating (setup must be complete and approved before a run; edits invalidate old approvals and results), honest "Scripted demo" / simulated-analysis labels, unsupported custom questions no longer reuse a previous scenario, and a mobile-first first screen.
 Built from source commit `9fdb3dd0989b65f78b1dea8a78edb3c38394dcad`.
+
+## v6.1 (2026-11-27)
+
+Draft-aware portfolio row (an edited study shows its current draft version, not the seeded +4.8%), tour step 4 copy fix, and `?scenario=` URL kept in sync with the screen.
+Built from source commit `50c69f057985a3e1b272b8c8ed8c1d940cbedfb4`.
